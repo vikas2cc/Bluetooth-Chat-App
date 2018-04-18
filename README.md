@@ -28,8 +28,8 @@ RUNNING INSTRUCTIONS:<br/>
    2.As Client<br/>
   
   -Performing enquiry start<br/>
-        performing inquiry...<br/>
-	found 1 devices<br/>
+   <tab/>     performing inquiry...<br/>
+   &nbsp;	found 1 devices<br/>
 	1. singh-Lenovo-Yoga-500-14IBD - E4:02:9B:3D:7A:6A<br/>
 	choose which server to connect<br/>
 	1<br/>
