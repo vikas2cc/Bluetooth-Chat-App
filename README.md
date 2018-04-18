@@ -1,6 +1,3 @@
-# Bluetooth-App
-Bluetooth App Implementation using RSA key exchange and AES encryption-decryption.
-
 Project - Bluetooth App
 
 Bluetooth App Implementation using RSA key exchange and AES encryption-decryption.
@@ -55,3 +52,7 @@ RUNNING INSTRUCTIONS:
 	<server>i got it.
 
 Contact- vikasiitianindia@gmail.com
+
+
+
+
