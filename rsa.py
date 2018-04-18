@@ -18,12 +18,6 @@ f.close()
 
 #decrypted code below
 
-
-
-
-
-
-
 f = open('encryption.txt', 'r')
 message = f.read()
 
