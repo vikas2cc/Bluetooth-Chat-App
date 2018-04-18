@@ -15,7 +15,7 @@ BUILD REQUIREMENTS:
    &nbsp; &nbsp; &nbsp; - Python 3.4 or more recent version<br/>
    &nbsp; &nbsp; &nbsp;  - Python distutils (standard in most Python distros, separate package<br/>
                          python-dev in Debian)<br/>
-   &nbsp; &nbsp; &nbsp;  - PyBlueZ libraries and header files (package libbluetooth-dev in Debian)<br/>
+   &nbsp; &nbsp; &nbsp;  - PyBlueZ libraries and header files (package libbluetooth-dev )<br/>
 
 RUNNING INSTRUCTIONS:<br/>
    
