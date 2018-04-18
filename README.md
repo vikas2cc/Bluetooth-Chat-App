@@ -27,7 +27,7 @@ RUNNING INSTRUCTIONS:<br/>
   &nbsp; &nbsp; &nbsp; 1.As Server<br/>
   &nbsp; &nbsp; &nbsp; 2.As Client<br/>
   
-  -Performing enquiry start<br/>
+  -Performing enquiry start(let choose 2(client))<br/>
   &nbsp; &nbsp; &nbsp;      performing inquiry...<br/>
 &nbsp; &nbsp; &nbsp;	found 1 devices<br/>
 &nbsp; &nbsp; &nbsp;	1. singh-Lenovo-Yoga-500-14IBD - E4:02:9B:3D:7A:6A<br/>
