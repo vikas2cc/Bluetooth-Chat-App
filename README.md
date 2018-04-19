@@ -11,6 +11,7 @@ BUILD REQUIREMENTS:
    &nbsp; &nbsp; &nbsp;  - Python distutils (standard in most Python distros, separate package<br/>
                          python-dev in Debian)<br/>
    &nbsp; &nbsp; &nbsp;  - PyBlueZ libraries and header files (package libbluetooth-dev in Debian)<br/>
+   &nbsp; &nbsp; &nbsp; Visit my gist to install on linux- https://gist.github.com/vikas2cc/5a228f2fef8687f03ceed1365e330719
   Windows XP:<br/>
    &nbsp; &nbsp; &nbsp; - Python 3.4 or more recent version<br/>
    &nbsp; &nbsp; &nbsp;  - Python distutils (standard in most Python distros, separate package<br/>
