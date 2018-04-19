@@ -2,7 +2,7 @@ Project - Bluetooth App
 <br/>
 Bluetooth App Implementation using RSA key exchange and AES encryption-decryption.
 <br/>
-Project Link- https://github.com/vikas2cc/Bluetooth-App
+Project Link- https://github.com/vikas2cc/Bluetooth-Chat-App
 <br/>
 BUILD REQUIREMENTS:
 
